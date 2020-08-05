@@ -1,6 +1,5 @@
-# pipeliningTM
+# pipelining:tm:
 
-<hr />
 
 ### Dependencies: 
 python (v3.5 or newer)
@@ -27,7 +26,7 @@ pip install apache-beam[gcp]
 
 `python3 main.py`
 
-cool
+<b> cool </b>
 
 <hr />
 
