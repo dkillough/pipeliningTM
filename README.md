@@ -15,7 +15,7 @@ virtualenv ~/
 . ~/bin/activate
 
 pip install apache-beam
-pip install apache-beam[gcp]
+pip install 'apache-beam[gcp]'
 ```
 
 `deactivate` when you're done with the VE
