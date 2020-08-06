@@ -11,8 +11,8 @@ google cloud platform (gcp)
 ```sh
 pip install --upgrade virtualenv
 
-virtualenv [directory PATH]
-. [directory PATH]/bin/activate
+virtualenv ~/
+. ~/bin/activate
 
 pip install apache-beam
 pip install apache-beam[gcp]
